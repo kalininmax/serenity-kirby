@@ -1,7 +1,7 @@
 <?= snippet('site/header') ?>
 <?= snippet('header') ?>
 
-  <main id="main" style="min-height: 50vh">
+  <main id="main" style="flex-grow:1">
 
   <div class="container">
     <div class="section-title pt-5">

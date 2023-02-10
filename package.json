@@ -1,0 +1,20 @@
+{
+  "name": "serenity-kirby",
+  "version": "1.0.0",
+  "description": "<img src=\"http://getkirby.com/assets/images/github/plainkit.jpg\" width=\"300\">",
+  "main": "index.js",
+  "scripts": {
+    "php": "php -S localhost:8000 kirby/router.php"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalininmax/serenity-kirby.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalininmax/serenity-kirby/issues"
+  },
+  "homepage": "https://github.com/kalininmax/serenity-kirby#readme"
+}
